@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WebDealerParag
 - 👀 I’m interested in website designing, video editing, photo editing, poster making.
-- 🌱 I’m currently learning civil engineering 
-- 💞️ I’m looking to collaborate on ...
+- 🏗 I’m currently learning civil engineering 
 - 📫 How to reach me ...
 
 <!---
